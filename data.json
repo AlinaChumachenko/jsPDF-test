@@ -1,0 +1,139 @@
+{
+    "menu": [
+      {
+        "section": "Breakfast",
+        "items": [
+          { "title": "Omelette", "description": "With vegetables", "weight": "200 g", "price": "90 UAH" },
+          { "title": "Oatmeal", "description": "With honey", "weight": "150 g", "price": "80 UAH" },
+          { "title": "Pancakes", "description": "With syrup", "weight": "180 g", "price": "120 UAH" },
+          { "title": "Syrniki (Cheese Pancakes)", "description": "With jam", "weight": "200 g", "price": "110 UAH" },
+          { "title": "Bruschetta", "description": "With avocado", "weight": "150 g", "price": "140 UAH" }
+        ]
+      },
+      {
+        "section": "Kids Menu",
+        "items": [
+          { "title": "Chicken Nuggets", "description": "With french fries", "weight": "250 g", "price": "130 UAH" },
+          { "title": "Cheese Pizza", "description": "Mozzarella and cheddar", "weight": "300 g", "price": "150 UAH" },
+          { "title": "Puree Soup", "description": "With pumpkin", "weight": "200 g", "price": "100 UAH" },
+          { "title": "Pancakes", "description": "With chocolate", "weight": "180 g", "price": "120 UAH" },
+          { "title": "Fruit Salad", "description": "With yogurt", "weight": "150 g", "price": "110 UAH" }
+        ]
+      },
+      {
+        "section": "Lunch",
+        "items": [
+          { "title": "Caesar Salad", "description": "With chicken", "weight": "250 g", "price": "150 UAH" },
+          { "title": "Grilled Salmon", "description": "With lemon and herbs", "weight": "300 g", "price": "220 UAH" },
+          { "title": "Turkey Sandwich", "description": "With avocado sauce", "weight": "200 g", "price": "130 UAH" },
+          { "title": "Pumpkin Cream Soup", "description": "With seeds and cream cheese", "weight": "250 g", "price": "100 UAH" },
+          { "title": "Carbonara Pasta", "description": "With bacon and Parmesan cheese", "weight": "350 g", "price": "180 UAH" }
+        ]
+      },
+      {
+        "section": "Kids Menu",
+        "items": [
+          { "title": "Chicken Nuggets", "description": "With french fries", "weight": "250 g", "price": "130 UAH" },
+          { "title": "Cheese Pizza", "description": "Mozzarella and cheddar", "weight": "300 g", "price": "150 UAH" },
+          { "title": "Puree Soup", "description": "With pumpkin", "weight": "200 g", "price": "100 UAH" },
+          { "title": "Pancakes", "description": "With chocolate", "weight": "180 g", "price": "120 UAH" },
+          { "title": "Fruit Salad", "description": "With yogurt", "weight": "150 g", "price": "110 UAH" }
+        ]
+      },
+      {
+        "section": "Hot Dishes",
+        "items": [
+          { "title": "Ukrainian Borscht", "description": "With garlic buns", "weight": "400 g", "price": "150 UAH" },
+          { "title": "Chicken Kiev", "description": "With mashed potatoes", "weight": "350 g", "price": "180 UAH" },
+          { "title": "Beef Goulash", "description": "With gravy", "weight": "300 g", "price": "200 UAH" },
+          { "title": "Chicken Shashlik", "description": "With pickled onions", "weight": "300 g", "price": "220 UAH" },
+          { "title": "Grilled Fish", "description": "With vegetables", "weight": "300 g", "price": "250 UAH" }
+        ]
+      },
+      {
+        "section": "Pizza",
+        "items": [
+          { "title": "Margherita", "description": "Classic tomato sauce and mozzarella", "weight": "450 g", "price": "150 UAH" },
+          { "title": "Pepperoni", "description": "With Italian sausage", "weight": "500 g", "price": "200 UAH" },
+          { "title": "Four Cheeses", "description": "Mozzarella, Parmesan, Cheddar, Gorgonzola", "weight": "450 g", "price": "230 UAH" },
+          { "title": "Hawaiian", "description": "With pineapple and chicken", "weight": "500 g", "price": "220 UAH" },
+          { "title": "Meat Lovers", "description": "With bacon and sausages", "weight": "500 g", "price": "250 UAH" }
+        ]
+      },
+      {
+        "section": "Eastern Cuisine",
+        "items": [
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },{ "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },
+          { "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" },{ "title": "California Sushi", "description": "With crab meat", "weight": "200 g", "price": "300 UAH" },
+          { "title": "Philadelphia Sushi", "description": "With salmon", "weight": "220 g", "price": "320 UAH" },
+          { "title": "Ramen", "description": "With egg and pork", "weight": "400 g", "price": "280 UAH" },
+          { "title": "Gyoza", "description": "With vegetables and meat", "weight": "250 g", "price": "200 UAH" },
+          { "title": "Spring Rolls", "description": "With shrimp and mango", "weight": "200 g", "price": "250 UAH" }
+
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ресторанне меню</title>
+  <link href="public/css/main.css" rel="stylesheet">
+  <!-- Подключение jsPDF через CDN -->
+  
+</head>
+<body class="bg-gray-100">
+  <div class="container mx-auto p-4">
+    <header class="text-center mb-8">
+      <h1 class="text-4xl font-bold text-gray-800">Меню ресторану</h1>
+      <p class="text-xl text-gray-600">Самі смачні страви для вашого задоволення!</p>
+    </header>
+
+    <section id="menu" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <!-- Данні будуть динамічно завантажені через JS -->
+    </section>
+
+    <footer class="text-center mt-12">
+      <button id="downloadPDF" class="bg-blue-500 text-white p-2 rounded-md">Завантажити PDF</button>
+    </footer>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+</body>
+</html>
